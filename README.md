@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Barath P
 
-<!--
-**barathcbe06-gif/barathcbe06-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 M.Sc Data Science Student
 
-Here are some ideas to get you started:
+I'm interested in Data Science, Python, SQL, Data Analytics and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Pandas
+- NumPy
+
+## 🚀 Projects
+
+### 🌾 Smart Rice Crop Monitoring
+AI and IoT-based academic project focused on rice crop health monitoring and crop-image analysis.
+
+🔗 Repository: [Smart Rice Crop Monitoring](https://github.com/Barathcbe06-gif/smart-rice-crop-monitoring)
+
+## 🎯 Currently Learning
+
+- Data Science
+- Machine Learning
+- SQL
+- Data Visualization
+
+## 📫 Connect with me
+
+🔗 LinkedIn: https://www.linkedin.com/in/barath-p-192123j/
