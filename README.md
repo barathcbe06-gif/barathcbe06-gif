@@ -1,12 +1,8 @@
 <div align="center">
-
-<!-- Thor-Inspired Profile Header Banner -->
-<a href="https://github.com/barathcbe06-gif">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/thor-banner.png">
-    <img src="./assets/thor-banner.png" alt="BARATH — THUNDERVERSE | M.Sc. Data Science & AI/ML" width="100%" />
-  </picture>
-</a>
+  <img src="./assets/thor-banner.png"
+       width="100%"
+       alt="BARATH Thor-inspired banner">
+</div>
 
 # ⚡ BARATH — THE THUNDERVERSE
 
